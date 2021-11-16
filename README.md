@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @huseyinmuhammet
+- 👀 I’m interested in electronic design, FPGAs and coding
+- 🌱 I’m currently learning MySql, electronic circuit design.
+- 📫 How to reach me hmgorgulu1@gmail.com
